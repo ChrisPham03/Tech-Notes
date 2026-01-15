@@ -287,7 +287,7 @@ graph TB
     APP_EU --> BROKER_EU
     APP_ASIA --> BROKER_ASIA
     
-    BROKER_NA <--->|Dynamic Message<br/>Routing (DMR)| BROKER_EU
+    BROKER_NA <--->|Dynamic Message Routing DMR| BROKER_EU
     BROKER_EU <--->|DMR| BROKER_ASIA
     BROKER_ASIA <--->|DMR| BROKER_NA
     
