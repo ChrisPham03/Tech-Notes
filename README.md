@@ -1,2 +1,2 @@
 # Tech-Notes
-These are tech notes that will save your team a bit of time for the hackathon instead of searching up for the guide online
+The Ultimate uOttaHack Technical Blueprint - A comprehensive, battle-tested guide for rapidly deploying production-grade applications using Google Cloud Platform (Cloud Run + Firestore), automated CI/CD (GitHub Actions + Docker), and event-driven architecture (Solace PubSub+). Features 7 detailed architecture diagrams, complete implementation workflows (zero-to-deployed in 20 minutes), troubleshooting decision trees, and judge-winning pitch strategies. Transforms 24 hours of infrastructure setup into 2 hours of automated deployment, letting you focus on building features that win hackathons.
