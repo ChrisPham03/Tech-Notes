@@ -268,19 +268,19 @@ graph TB
     end
 
     subgraph "Team Document"
-        TD[📄 team-001<br/>{name, score, timestamp}]
+        TD["📄 team-001<br/>{name, score, timestamp}"]
     end
 
     subgraph "Subcollection Pattern"
         TD2[📄 team-002]
-        SC[📁 team-002/members/<br/>Subcollection]
+        SC["📁 team-002/members/<br/>Subcollection"]
         M1[📄 member-a]
         M2[📄 member-b]
     end
 
     subgraph "Query Capabilities"
-        Q1[Query: Top 10 Teams<br/>by Score]
-        Q2[Collection Group Query:<br/>All Members Named 'Alice']
+        Q1["Query: Top 10 Teams<br/>by Score"]
+        Q2["Collection Group Query:<br/>All Members Named 'Alice'"]
     end
 
     TEAMS --> TD
