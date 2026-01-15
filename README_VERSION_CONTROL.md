@@ -29,7 +29,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  Without Git                                             │
+│  Without Git                                            │
 ├─────────────────────────────────────────────────────────┤
 │  project/                                               │
 │  ├── code.js                                            │
@@ -37,28 +37,28 @@
 │  ├── code_final.js                                      │
 │  ├── code_final_REALLY.js                               │
 │  └── code_final_USE_THIS_ONE.js                         │
-│                                                          │
+│                                                         │
 │  Problems:                                              │
-│  ❌ No history of changes                              │
+│  ❌ No history of changes                               │
 │  ❌ No collaboration                                    │
-│  ❌ Which file is current?                             │
+│  ❌ Which file is current?                              │
 └─────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────┐
-│  With Git                                                │
+│  With Git                                               │
 ├─────────────────────────────────────────────────────────┤
 │  project/                                               │
 │  └── code.js                                            │
-│                                                          │
+│                                                         │
 │  Git History:                                           │
 │  • 2:00 PM: "Add user authentication"                   │
 │  • 1:30 PM: "Fix login bug"                             │
 │  • 1:00 PM: "Initial commit"                            │
-│                                                          │
+│                                                         │
 │  Benefits:                                              │
-│  ✅ Complete change history                            │
-│  ✅ Multiple people can work together                  │
-│  ✅ Can go back to any point in time                   │
+│  ✅ Complete change history                             │
+│  ✅ Multiple people can work together                   │
+│  ✅ Can go back to any point in time                    │
 └─────────────────────────────────────────────────────────┘
 ```
 
